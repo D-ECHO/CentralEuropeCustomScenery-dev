@@ -55,6 +55,9 @@ then
 elif [ $1 -eq 19 ]
 then
 	geo="--min-lon=7.0 --max-lon=7.8 --min-lat=46.0 --max-lat=46.8"
+elif [ $1 -eq 20 ]
+then
+	geo="--min-lon=18.8 --max-lon=19.4 --min-lat=47.3 --max-lat=47.75"
 fi
 echo $1
 echo $geo

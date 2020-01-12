@@ -188,4 +188,8 @@ Region 19 - Central Switzerland (2) --min-lon=7.0 --max-lon=7.8 --min-lat=46.0 -
 		LSGK
 		LSGT
 		LSGE
+Region 20 - Budapest --min-lon=18.8 --max-lon=19.4 --min-lat=47.3 --max-lat=47.75
+	Airports
+		LHBP
+		LHTL
 		
