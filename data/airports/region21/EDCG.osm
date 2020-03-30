@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="dsf2aptdat.py" copyright="scenery gateway contributors">
+<node id="222" visible="true" version="1"   lat="54.384475456" lon="13.326324842"/>
+<node id="223" visible="true" version="1"   lat="54.384491584" lon="13.326799614"/>
+<node id="224" visible="true" version="1"   lat="54.384680036" lon="13.326780736"/>
+<node id="225" visible="true" version="1"   lat="54.384663908" lon="13.326305965"/>
+<node id="226" visible="true" version="1"   lat="54.384496192" lon="13.326882699"/>
+<node id="227" visible="true" version="1"   lat="54.384505408" lon="13.327191301"/>
+<node id="228" visible="true" version="1"   lat="54.384662113" lon="13.327177501"/>
+<node id="229" visible="true" version="1"   lat="54.384652897" lon="13.326868899"/>
+<way id="0" visible="true" version="1" >
+<nd ref="222"/>
+<nd ref="223"/>
+<nd ref="224"/>
+<nd ref="225"/>
+<nd ref="222"/>
+<tag k="building" v="yes"/>
+<tag k="building:height" v="7"/>
+<tag k="facade_file_name" v="lib/airport/Common_Elements/Misc_Buildings/Blue_Warehouse.fac"/>
+</way>
+<way id="0" visible="true" version="1" >
+<nd ref="226"/>
+<nd ref="227"/>
+<nd ref="228"/>
+<nd ref="229"/>
+<nd ref="226"/>
+<tag k="building" v="yes"/>
+<tag k="building:height" v="7"/>
+<tag k="facade_file_name" v="lib/airport/Common_Elements/Misc_Buildings/Blue_Warehouse.fac"/>
+</way>
+</osm>

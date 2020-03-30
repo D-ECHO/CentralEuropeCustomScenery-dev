@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="dsf2aptdat.py" copyright="scenery gateway contributors">
+<node id="309" visible="true" version="1"   lat="53.835584071" lon="13.679646466"/>
+<node id="310" visible="true" version="1"   lat="53.835564292" lon="13.679778307"/>
+<node id="311" visible="true" version="1"   lat="53.835719893" lon="13.679847579"/>
+<node id="312" visible="true" version="1"   lat="53.835740992" lon="13.679713504"/>
+<node id="313" visible="true" version="1"   lat="53.828284379" lon="13.678278809"/>
+<node id="314" visible="true" version="1"   lat="53.828294533" lon="13.678433639"/>
+<node id="315" visible="true" version="1"   lat="53.828509210" lon="13.678384487"/>
+<node id="316" visible="true" version="1"   lat="53.828494705" lon="13.678229657"/>
+<node id="317" visible="true" version="1"   lat="53.835994787" lon="13.679990298"/>
+<node id="318" visible="true" version="1"   lat="53.836112267" lon="13.680024833"/>
+<node id="319" visible="true" version="1"   lat="53.836201141" lon="13.679102695"/>
+<node id="320" visible="true" version="1"   lat="53.836081099" lon="13.679065983"/>
+<node id="321" visible="true" version="1"   lat="53.836108689" lon="13.676961121"/>
+<node id="322" visible="true" version="1"   lat="53.836306194" lon="13.677015104"/>
+<node id="323" visible="true" version="1"   lat="53.836384771" lon="13.676172972"/>
+<node id="324" visible="true" version="1"   lat="53.836189390" lon="13.676126187"/>
+<node id="325" visible="true" version="1"   lat="53.836118467" lon="13.678593900"/>
+<node id="326" visible="true" version="1"   lat="53.836051770" lon="13.678574067"/>
+<node id="327" visible="true" version="1"   lat="53.835782763" lon="13.678502559"/>
+<node id="328" visible="true" version="1"   lat="53.835647667" lon="13.678462086"/>
+<node id="329" visible="true" version="1"   lat="53.835632202" lon="13.678602059"/>
+<node id="330" visible="true" version="1"   lat="53.836105366" lon="13.678732652"/>
+<node id="331" visible="true" version="1"   lat="53.835782763" lon="13.678502559"/>
+<node id="332" visible="true" version="1"   lat="53.836051770" lon="13.678574067"/>
+<node id="333" visible="true" version="1"   lat="53.836147937" lon="13.677580705"/>
+<node id="334" visible="true" version="1"   lat="53.835876388" lon="13.677503691"/>
+<node id="335" visible="true" version="1"   lat="53.836230739" lon="13.678659795"/>
+<node id="336" visible="true" version="1"   lat="53.836466135" lon="13.678726281"/>
+<node id="337" visible="true" version="1"   lat="53.836487931" lon="13.678486196"/>
+<node id="338" visible="true" version="1"   lat="53.836254714" lon="13.678423405"/>
+<way id="0" visible="true" version="1" >
+<nd ref="309"/>
+<nd ref="310"/>
+<nd ref="311"/>
+<nd ref="312"/>
+<nd ref="309"/>
+<tag k="building" v="yes"/>
+<tag k="building:height" v="2"/>
+<tag k="facade_file_name" v="lib/airport/Common_Elements/Misc_Buildings/Cargo_Terminal.fac"/>
+</way>
+<way id="0" visible="true" version="1" >
+<nd ref="313"/>
+<nd ref="314"/>
+<nd ref="315"/>
+<nd ref="316"/>
+<nd ref="313"/>
+<tag k="building" v="yes"/>
+<tag k="building:height" v="4"/>
+<tag k="facade_file_name" v="lib/airport/Common_Elements/Misc_Buildings/White_Office.fac"/>
+</way>
+<way id="0" visible="true" version="1" >
+<nd ref="317"/>
+<nd ref="318"/>
+<nd ref="319"/>
+<nd ref="320"/>
+<nd ref="317"/>
+<tag k="building" v="yes"/>
+<tag k="building:height" v="4"/>
+<tag k="facade_file_name" v="lib/airport/Common_Elements/Misc_Buildings/White_Office.fac"/>
+</way>
+<way id="0" visible="true" version="1" >
+<nd ref="321"/>
+<nd ref="322"/>
+<nd ref="323"/>
+<nd ref="324"/>
+<nd ref="321"/>
+<tag k="building" v="yes"/>
+<tag k="building:height" v="4"/>
+<tag k="facade_file_name" v="lib/airport/Common_Elements/Misc_Buildings/Cargo_Terminal.fac"/>
+</way>
+<way id="0" visible="true" version="1" >
+<nd ref="325"/>
+<nd ref="326"/>
+<nd ref="327"/>
+<nd ref="328"/>
+<nd ref="329"/>
+<nd ref="330"/>
+<nd ref="325"/>
+<tag k="building" v="yes"/>
+<tag k="building:height" v="4"/>
+<tag k="facade_file_name" v="lib/airport/Common_Elements/Misc_Buildings/White_Office.fac"/>
+</way>
+<way id="0" visible="true" version="1" >
+<nd ref="331"/>
+<nd ref="332"/>
+<nd ref="333"/>
+<nd ref="334"/>
+<nd ref="331"/>
+<tag k="building" v="yes"/>
+<tag k="building:height" v="4"/>
+<tag k="facade_file_name" v="lib/airport/Common_Elements/Hangars/White_Hangar.fac"/>
+</way>
+<way id="0" visible="true" version="1" >
+<nd ref="335"/>
+<nd ref="336"/>
+<nd ref="337"/>
+<nd ref="338"/>
+<nd ref="335"/>
+<tag k="building" v="yes"/>
+<tag k="building:height" v="4"/>
+<tag k="facade_file_name" v="lib/airport/Common_Elements/Misc_Buildings/Blue_Warehouse.fac"/>
+</way>
+</osm>

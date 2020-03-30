@@ -193,3 +193,14 @@ Region 20 - Budapest --min-lon=18.8 --max-lon=19.4 --min-lat=47.3 --max-lat=47.7
 		LHBP
 		LHTL
 		
+Region 21 - Rostock and surrounding 
+	Airports	--min-lon=11.25 --max-lon=14.75 --min-lat=53.75 --max-lat=54.75
+		EDCG
+		EDBH
+		ETNL
+		EDCW
+		EDCU
+		EDCA
+		EDAH
+		EDCP
+		EKMB

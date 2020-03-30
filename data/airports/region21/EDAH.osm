@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="dsf2aptdat.py" copyright="scenery gateway contributors">
+<node id="142" visible="true" version="1"   lat="53.878665980" lon="14.138651102"/>
+<node id="143" visible="true" version="1"   lat="53.878505760" lon="14.138501850"/>
+<node id="144" visible="true" version="1"   lat="53.878277829" lon="14.139239052"/>
+<node id="145" visible="true" version="1"   lat="53.878438048" lon="14.139389734"/>
+<node id="146" visible="true" version="1"   lat="53.877268349" lon="14.146528096"/>
+<node id="147" visible="true" version="1"   lat="53.876838712" lon="14.146496624"/>
+<node id="148" visible="true" version="1"   lat="53.876801518" lon="14.147694457"/>
+<node id="149" visible="true" version="1"   lat="53.877240215" lon="14.147722114"/>
+<node id="150" visible="true" version="1"   lat="53.877107176" lon="14.148801690"/>
+<node id="151" visible="true" version="1"   lat="53.876494430" lon="14.148742084"/>
+<node id="152" visible="true" version="1"   lat="53.876477741" lon="14.149136912"/>
+<node id="153" visible="true" version="1"   lat="53.877094778" lon="14.149214637"/>
+<way id="0" visible="true" version="1" >
+<nd ref="142"/>
+<nd ref="143"/>
+<nd ref="144"/>
+<nd ref="145"/>
+<nd ref="142"/>
+<tag k="building" v="yes"/>
+<tag k="building:height" v="15"/>
+<tag k="facade_file_name" v="lib/airport/Modern_Airports/Facades/modern3.fac"/>
+</way>
+<way id="0" visible="true" version="1" >
+<nd ref="146"/>
+<nd ref="147"/>
+<nd ref="148"/>
+<nd ref="149"/>
+<nd ref="146"/>
+<tag k="building" v="yes"/>
+<tag k="building:height" v="10"/>
+<tag k="facade_file_name" v="lib/airport/Common_Elements/Hangars/White_Hangar.fac"/>
+</way>
+<way id="0" visible="true" version="1" >
+<nd ref="150"/>
+<nd ref="151"/>
+<nd ref="152"/>
+<nd ref="153"/>
+<nd ref="150"/>
+<tag k="building" v="yes"/>
+<tag k="building:height" v="10"/>
+<tag k="facade_file_name" v="lib/airport/Common_Elements/Misc_Buildings/Blue_Warehouse.fac"/>
+</way>
+</osm>

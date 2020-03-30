@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="dsf2aptdat.py" copyright="scenery gateway contributors">
+<node id="84" visible="true" version="1"   lat="54.151976527" lon="13.776858611"/>
+<node id="85" visible="true" version="1"   lat="54.151567935" lon="13.776752903"/>
+<node id="86" visible="true" version="1"   lat="54.151551427" lon="13.776943177"/>
+<node id="87" visible="true" version="1"   lat="54.151962082" lon="13.777048885"/>
+<way id="0" visible="true" version="1" >
+<nd ref="84"/>
+<nd ref="85"/>
+<nd ref="86"/>
+<nd ref="87"/>
+<nd ref="84"/>
+<tag k="building" v="yes"/>
+<tag k="building:height" v="20"/>
+<tag k="facade_file_name" v="lib/airport/Common_Elements/Misc_Buildings/White_Office.fac"/>
+</way>
+</osm>
