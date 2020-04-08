@@ -193,8 +193,8 @@ Region 20 - Budapest --min-lon=18.8 --max-lon=19.4 --min-lat=47.3 --max-lat=47.7
 		LHBP
 		LHTL
 		
-Region 21 - Rostock and surrounding 
-	Airports	--min-lon=11.25 --max-lon=14.75 --min-lat=53.75 --max-lat=54.75
+Region 21 - Rostock and surrounding  --min-lon=11.25 --max-lon=14.75 --min-lat=53.75 --max-lat=54.75
+	Airports
 		EDCG
 		EDBH
 		ETNL
@@ -204,3 +204,29 @@ Region 21 - Rostock and surrounding
 		EDAH
 		EDCP
 		EKMB
+Region 22 - Koblenz (EDRK) --min-lon=7.2 --max-lon=7.8 --min-lat=50.2 --max-lat=50.5 
+	Airports
+		EDRK
+		EDRE
+Region 23 - Mosel Valley and Büchel --min-lon=6.9 --max-lon=7.2 --min-lat=49.8 --max-lat=50.2 
+	Airports
+		ETSB
+		EDRD
+		EDRM
+Region 24 - Ingolstadt and Neuburg (Donau) --min-lon=11.0 --max-lon=11.75 --min-lat=48.5 --max-lat=48.9
+	Airports
+		ETSI
+		ETSN
+		Segelflugplatz Ingolstadt - Etting (XEDBW)
+		EDNJ
+		EDPE
+		Flugplatz Burgheim (XEDS7)
+		
+		
+		
+
+		
+
+for i in "ETSI" "ETSN" "EDNJ" "EDPE" "XEDBW" "XEDS7"; do python gateway_pull.py -i $i; python dsf2aptdat.py -i $i; done
+
+		

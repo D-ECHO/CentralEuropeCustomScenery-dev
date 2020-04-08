@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="dsf2aptdat.py" copyright="scenery gateway contributors">
+<node id="164" visible="true" version="1"   lat="48.810183513" lon="11.425783215"/>
+<node id="165" visible="true" version="1"   lat="48.810183608" lon="11.425926204"/>
+<node id="166" visible="true" version="1"   lat="48.810183703" lon="11.426069193"/>
+<node id="167" visible="true" version="1"   lat="48.810385945" lon="11.426069296"/>
+<node id="168" visible="true" version="1"   lat="48.810386112" lon="11.425782656"/>
+<way id="0" visible="true" version="1" >
+<nd ref="164"/>
+<nd ref="165"/>
+<nd ref="166"/>
+<nd ref="167"/>
+<nd ref="168"/>
+<nd ref="164"/>
+<tag k="building" v="yes"/>
+<tag k="building:height" v="10"/>
+<tag k="facade_file_name" v="lib/airport/Common_Elements/Misc_Buildings/Cargo_Terminal.fac"/>
+</way>
+</osm>

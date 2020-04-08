@@ -1,0 +1,821 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="dsf2aptdat.py" copyright="scenery gateway contributors">
+<node id="956" visible="true" version="1"   lat="48.712535904" lon="11.225586377"/>
+<node id="957" visible="true" version="1"   lat="48.712530072" lon="11.226087969"/>
+<node id="958" visible="true" version="1"   lat="48.712678792" lon="11.226087969"/>
+<node id="959" visible="true" version="1"   lat="48.712683166" lon="11.225590797"/>
+<node id="960" visible="true" version="1"   lat="48.709513182" lon="11.212418304"/>
+<node id="961" visible="true" version="1"   lat="48.709511723" lon="11.212566342"/>
+<node id="962" visible="true" version="1"   lat="48.709780755" lon="11.212572970"/>
+<node id="963" visible="true" version="1"   lat="48.709780002" lon="11.212427142"/>
+<node id="964" visible="true" version="1"   lat="48.707167379" lon="11.228291228"/>
+<node id="965" visible="true" version="1"   lat="48.707165263" lon="11.228379443"/>
+<node id="966" visible="true" version="1"   lat="48.707225593" lon="11.228381046"/>
+<node id="967" visible="true" version="1"   lat="48.707226652" lon="11.228291228"/>
+<node id="968" visible="true" version="1"   lat="48.708184145" lon="11.231989534"/>
+<node id="969" visible="true" version="1"   lat="48.707703561" lon="11.231986409"/>
+<node id="970" visible="true" version="1"   lat="48.707806691" lon="11.232258333"/>
+<node id="971" visible="true" version="1"   lat="48.708285212" lon="11.232252082"/>
+<node id="972" visible="true" version="1"   lat="48.708277662" lon="11.226316089"/>
+<node id="973" visible="true" version="1"   lat="48.707905745" lon="11.226674736"/>
+<node id="974" visible="true" version="1"   lat="48.707984636" lon="11.226879677"/>
+<node id="975" visible="true" version="1"   lat="48.708356553" lon="11.226503952"/>
+<node id="976" visible="true" version="1"   lat="48.707771777" lon="11.229436839"/>
+<node id="977" visible="true" version="1"   lat="48.707767128" lon="11.229267763"/>
+<node id="978" visible="true" version="1"   lat="48.707654003" lon="11.229272460"/>
+<node id="979" visible="true" version="1"   lat="48.707641606" lon="11.228960138"/>
+<node id="980" visible="true" version="1"   lat="48.707542428" lon="11.228957790"/>
+<node id="981" visible="true" version="1"   lat="48.707551726" lon="11.229436839"/>
+<node id="982" visible="true" version="1"   lat="48.707528192" lon="11.225737559"/>
+<node id="983" visible="true" version="1"   lat="48.707590179" lon="11.225891264"/>
+<node id="984" visible="true" version="1"   lat="48.708053666" lon="11.225453630"/>
+<node id="985" visible="true" version="1"   lat="48.708002950" lon="11.225325542"/>
+<node id="986" visible="true" version="1"   lat="48.707795860" lon="11.225519809"/>
+<node id="987" visible="true" version="1"   lat="48.707783181" lon="11.225494191"/>
+<node id="988" visible="true" version="1"   lat="48.708447080" lon="11.225230861"/>
+<node id="989" visible="true" version="1"   lat="48.708346352" lon="11.224984290"/>
+<node id="990" visible="true" version="1"   lat="48.708093758" lon="11.225226165"/>
+<node id="991" visible="true" version="1"   lat="48.708191387" lon="11.225477433"/>
+<node id="992" visible="true" version="1"   lat="48.708452652" lon="11.226194362"/>
+<node id="993" visible="true" version="1"   lat="48.708595858" lon="11.226541934"/>
+<node id="994" visible="true" version="1"   lat="48.708970756" lon="11.226169662"/>
+<node id="995" visible="true" version="1"   lat="48.708826385" lon="11.225827383"/>
+<node id="996" visible="true" version="1"   lat="48.709133908" lon="11.224362104"/>
+<node id="997" visible="true" version="1"   lat="48.709024813" lon="11.224088290"/>
+<node id="998" visible="true" version="1"   lat="48.708404331" lon="11.224669499"/>
+<node id="999" visible="true" version="1"   lat="48.708504904" lon="11.224956228"/>
+<node id="1000" visible="true" version="1"   lat="48.708659747" lon="11.222417384"/>
+<node id="1001" visible="true" version="1"   lat="48.708243849" lon="11.222411865"/>
+<node id="1002" visible="true" version="1"   lat="48.708242371" lon="11.222583901"/>
+<node id="1003" visible="true" version="1"   lat="48.708296351" lon="11.222582128"/>
+<node id="1004" visible="true" version="1"   lat="48.708295905" lon="11.223953787"/>
+<node id="1005" visible="true" version="1"   lat="48.708235843" lon="11.223958056"/>
+<node id="1006" visible="true" version="1"   lat="48.708235327" lon="11.224129520"/>
+<node id="1007" visible="true" version="1"   lat="48.708655143" lon="11.224140194"/>
+<node id="1008" visible="true" version="1"   lat="48.708655589" lon="11.223980653"/>
+<node id="1009" visible="true" version="1"   lat="48.708705274" lon="11.223979405"/>
+<node id="1010" visible="true" version="1"   lat="48.708705859" lon="11.222600979"/>
+<node id="1011" visible="true" version="1"   lat="48.708659231" lon="11.222600617"/>
+<node id="1012" visible="true" version="1"   lat="48.707181950" lon="11.221472896"/>
+<node id="1013" visible="true" version="1"   lat="48.707192263" lon="11.222219898"/>
+<node id="1014" visible="true" version="1"   lat="48.707371708" lon="11.222360547"/>
+<node id="1015" visible="true" version="1"   lat="48.707367583" lon="11.221638549"/>
+<node id="1016" visible="true" version="1"   lat="48.709093993" lon="11.220967117"/>
+<node id="1017" visible="true" version="1"   lat="48.709095868" lon="11.220577838"/>
+<node id="1018" visible="true" version="1"   lat="48.708420839" lon="11.220574997"/>
+<node id="1019" visible="true" version="1"   lat="48.708415213" lon="11.220955751"/>
+<node id="1020" visible="true" version="1"   lat="48.708724311" lon="11.222622803"/>
+<node id="1021" visible="true" version="1"   lat="48.708429877" lon="11.222618533"/>
+<node id="1022" visible="true" version="1"   lat="48.708425650" lon="11.223933590"/>
+<node id="1023" visible="true" version="1"   lat="48.708721494" lon="11.223939995"/>
+<node id="1024" visible="true" version="1"   lat="48.709093993" lon="11.221256944"/>
+<node id="1025" visible="true" version="1"   lat="48.708685225" lon="11.221251262"/>
+<node id="1026" visible="true" version="1"   lat="48.708679600" lon="11.222282707"/>
+<node id="1027" visible="true" version="1"   lat="48.709090243" lon="11.222294073"/>
+<node id="1028" visible="true" version="1"   lat="48.708550142" lon="11.217994011"/>
+<node id="1029" visible="true" version="1"   lat="48.708449415" lon="11.217921214"/>
+<node id="1030" visible="true" version="1"   lat="48.708354886" lon="11.218205358"/>
+<node id="1031" visible="true" version="1"   lat="48.708246410" lon="11.218132561"/>
+<node id="1032" visible="true" version="1"   lat="48.708206119" lon="11.218275807"/>
+<node id="1033" visible="true" version="1"   lat="48.708415322" lon="11.218428447"/>
+<node id="1034" visible="true" version="1"   lat="48.708768644" lon="11.216953711"/>
+<node id="1035" visible="true" version="1"   lat="48.708658618" lon="11.216866824"/>
+<node id="1036" visible="true" version="1"   lat="48.708578036" lon="11.217113396"/>
+<node id="1037" visible="true" version="1"   lat="48.708599731" lon="11.217129834"/>
+<node id="1038" visible="true" version="1"   lat="48.708432369" lon="11.217684035"/>
+<node id="1039" visible="true" version="1"   lat="48.708585784" lon="11.217799102"/>
+<node id="1040" visible="true" version="1"   lat="48.708643122" lon="11.217620630"/>
+<node id="1041" visible="true" version="1"   lat="48.708578036" lon="11.217564271"/>
+<node id="1042" visible="true" version="1"   lat="48.708932425" lon="11.230662937"/>
+<node id="1043" visible="true" version="1"   lat="48.709212365" lon="11.230660930"/>
+<node id="1044" visible="true" version="1"   lat="48.709210547" lon="11.230435729"/>
+<node id="1045" visible="true" version="1"   lat="48.708931235" lon="11.230426065"/>
+<node id="1046" visible="true" version="1"   lat="48.709356976" lon="11.230775730"/>
+<node id="1047" visible="true" version="1"   lat="48.709359120" lon="11.231199950"/>
+<node id="1048" visible="true" version="1"   lat="48.709507720" lon="11.231196536"/>
+<node id="1049" visible="true" version="1"   lat="48.709513280" lon="11.230773235"/>
+<node id="1050" visible="true" version="1"   lat="48.712506349" lon="11.227841196"/>
+<node id="1051" visible="true" version="1"   lat="48.712262307" lon="11.228049009"/>
+<node id="1052" visible="true" version="1"   lat="48.712336082" lon="11.228244529"/>
+<node id="1053" visible="true" version="1"   lat="48.712583316" lon="11.228047381"/>
+<node id="1054" visible="true" version="1"   lat="48.712706247" lon="11.229007432"/>
+<node id="1055" visible="true" version="1"   lat="48.712464056" lon="11.228794704"/>
+<node id="1056" visible="true" version="1"   lat="48.712390506" lon="11.228990419"/>
+<node id="1057" visible="true" version="1"   lat="48.712628262" lon="11.229212736"/>
+<node id="1058" visible="true" version="1"   lat="48.712599264" lon="11.230063403"/>
+<node id="1059" visible="true" version="1"   lat="48.712380624" lon="11.230328319"/>
+<node id="1060" visible="true" version="1"   lat="48.712474300" lon="11.230503174"/>
+<node id="1061" visible="true" version="1"   lat="48.712697229" lon="11.230247999"/>
+<node id="1062" visible="true" version="1"   lat="48.712586634" lon="11.231412250"/>
+<node id="1063" visible="true" version="1"   lat="48.712331723" lon="11.231236948"/>
+<node id="1064" visible="true" version="1"   lat="48.712271334" lon="11.231442747"/>
+<node id="1065" visible="true" version="1"   lat="48.712522459" lon="11.231628257"/>
+<node id="1066" visible="true" version="1"   lat="48.709017765" lon="11.232315966"/>
+<node id="1067" visible="true" version="1"   lat="48.709116546" lon="11.231919022"/>
+<node id="1068" visible="true" version="1"   lat="48.708977099" lon="11.231841134"/>
+<node id="1069" visible="true" version="1"   lat="48.708871349" lon="11.232233018"/>
+<node id="1070" visible="true" version="1"   lat="48.708468718" lon="11.231820440"/>
+<node id="1071" visible="true" version="1"   lat="48.708617559" lon="11.231461138"/>
+<node id="1072" visible="true" version="1"   lat="48.708491099" lon="11.231342828"/>
+<node id="1073" visible="true" version="1"   lat="48.708336092" lon="11.231695074"/>
+<node id="1074" visible="true" version="1"   lat="48.708878885" lon="11.229963586"/>
+<node id="1075" visible="true" version="1"   lat="48.708661615" lon="11.230231103"/>
+<node id="1076" visible="true" version="1"   lat="48.708756193" lon="11.230404828"/>
+<node id="1077" visible="true" version="1"   lat="48.708977802" lon="11.230147001"/>
+<node id="1078" visible="true" version="1"   lat="48.708709498" lon="11.229419803"/>
+<node id="1079" visible="true" version="1"   lat="48.708519703" lon="11.229107955"/>
+<node id="1080" visible="true" version="1"   lat="48.708411215" lon="11.229261883"/>
+<node id="1081" visible="true" version="1"   lat="48.708594900" lon="11.229580899"/>
+<node id="1082" visible="true" version="1"   lat="48.707714669" lon="11.229999042"/>
+<node id="1083" visible="true" version="1"   lat="48.707929658" lon="11.229727327"/>
+<node id="1084" visible="true" version="1"   lat="48.707833617" lon="11.229555455"/>
+<node id="1085" visible="true" version="1"   lat="48.707614207" lon="11.229817566"/>
+<node id="1086" visible="true" version="1"   lat="48.707666952" lon="11.228455616"/>
+<node id="1087" visible="true" version="1"   lat="48.707931581" lon="11.228594025"/>
+<node id="1088" visible="true" version="1"   lat="48.707979017" lon="11.228380590"/>
+<node id="1089" visible="true" version="1"   lat="48.707717528" lon="11.228231482"/>
+<node id="1090" visible="true" version="1"   lat="48.708072051" lon="11.227425524"/>
+<node id="1091" visible="true" version="1"   lat="48.708264927" lon="11.227732999"/>
+<node id="1092" visible="true" version="1"   lat="48.708371875" lon="11.227576615"/>
+<node id="1093" visible="true" version="1"   lat="48.708185036" lon="11.227261833"/>
+<node id="1094" visible="true" version="1"   lat="48.708426127" lon="11.227128367"/>
+<node id="1095" visible="true" version="1"   lat="48.708650608" lon="11.227381842"/>
+<node id="1096" visible="true" version="1"   lat="48.708738513" lon="11.227200247"/>
+<node id="1097" visible="true" version="1"   lat="48.708519165" lon="11.226938019"/>
+<node id="1098" visible="true" version="1"   lat="48.709407755" lon="11.226986469"/>
+<node id="1099" visible="true" version="1"   lat="48.709260567" lon="11.227347331"/>
+<node id="1100" visible="true" version="1"   lat="48.709387564" lon="11.227464310"/>
+<node id="1101" visible="true" version="1"   lat="48.709540951" lon="11.227110439"/>
+<node id="1102" visible="true" version="1"   lat="48.709205941" lon="11.226498732"/>
+<node id="1103" visible="true" version="1"   lat="48.709485855" lon="11.226492702"/>
+<node id="1104" visible="true" version="1"   lat="48.709482631" lon="11.226267536"/>
+<node id="1105" visible="true" version="1"   lat="48.709203272" lon="11.226261887"/>
+<node id="1106" visible="true" version="1"   lat="48.709278139" lon="11.220447459"/>
+<node id="1107" visible="true" version="1"   lat="48.709399931" lon="11.220065479"/>
+<node id="1108" visible="true" version="1"   lat="48.709265636" lon="11.219969014"/>
+<node id="1109" visible="true" version="1"   lat="48.709137202" lon="11.220345012"/>
+<node id="1110" visible="true" version="1"   lat="48.709033149" lon="11.219907846"/>
+<node id="1111" visible="true" version="1"   lat="48.709213004" lon="11.219582751"/>
+<node id="1112" visible="true" version="1"   lat="48.709098405" lon="11.219439350"/>
+<node id="1113" visible="true" version="1"   lat="48.708913079" lon="11.219756178"/>
+<node id="1114" visible="true" version="1"   lat="48.707544720" lon="11.220762731"/>
+<node id="1115" visible="true" version="1"   lat="48.707656080" lon="11.220373509"/>
+<node id="1116" visible="true" version="1"   lat="48.707519289" lon="11.220285466"/>
+<node id="1117" visible="true" version="1"   lat="48.707401131" lon="11.220669123"/>
+<node id="1118" visible="true" version="1"   lat="48.707056067" lon="11.220106045"/>
+<node id="1119" visible="true" version="1"   lat="48.707192984" lon="11.219736013"/>
+<node id="1120" visible="true" version="1"   lat="48.707062814" lon="11.219627335"/>
+<node id="1121" visible="true" version="1"   lat="48.706919508" lon="11.219990782"/>
+<node id="1122" visible="true" version="1"   lat="48.707795436" lon="11.218895488"/>
+<node id="1123" visible="true" version="1"   lat="48.707613413" lon="11.219217806"/>
+<node id="1124" visible="true" version="1"   lat="48.707727046" lon="11.219362957"/>
+<node id="1125" visible="true" version="1"   lat="48.707914485" lon="11.219048991"/>
+<node id="1126" visible="true" version="1"   lat="48.708096242" lon="11.217894438"/>
+<node id="1127" visible="true" version="1"   lat="48.707856810" lon="11.217674605"/>
+<node id="1128" visible="true" version="1"   lat="48.707780748" lon="11.217868087"/>
+<node id="1129" visible="true" version="1"   lat="48.708019115" lon="11.218090318"/>
+<node id="1130" visible="true" version="1"   lat="48.707620284" lon="11.219078283"/>
+<node id="1131" visible="true" version="1"   lat="48.707622374" lon="11.218654062"/>
+<node id="1132" visible="true" version="1"   lat="48.707473757" lon="11.218654060"/>
+<node id="1133" visible="true" version="1"   lat="48.707463974" lon="11.219077186"/>
+<node id="1134" visible="true" version="1"   lat="48.706996904" lon="11.218901901"/>
+<node id="1135" visible="true" version="1"   lat="48.707120080" lon="11.218520939"/>
+<node id="1136" visible="true" version="1"   lat="48.706986138" lon="11.218423359"/>
+<node id="1137" visible="true" version="1"   lat="48.706856341" lon="11.218798283"/>
+<node id="1138" visible="true" version="1"   lat="48.706804578" lon="11.217928910"/>
+<node id="1139" visible="true" version="1"   lat="48.707067009" lon="11.218076646"/>
+<node id="1140" visible="true" version="1"   lat="48.707117725" lon="11.217864956"/>
+<node id="1141" visible="true" version="1"   lat="48.706858598" lon="11.217706636"/>
+<node id="1142" visible="true" version="1"   lat="48.707529110" lon="11.216397891"/>
+<node id="1143" visible="true" version="1"   lat="48.707780876" lon="11.216583413"/>
+<node id="1144" visible="true" version="1"   lat="48.707844871" lon="11.216380153"/>
+<node id="1145" visible="true" version="1"   lat="48.707597070" lon="11.216184580"/>
+<node id="1146" visible="true" version="1"   lat="48.708391360" lon="11.219259145"/>
+<node id="1147" visible="true" version="1"   lat="48.708671305" lon="11.219261567"/>
+<node id="1148" visible="true" version="1"   lat="48.708671048" lon="11.219036354"/>
+<node id="1149" visible="true" version="1"   lat="48.708391766" lon="11.219027564"/>
+<node id="1150" visible="true" version="1"   lat="48.708801013" lon="11.218250728"/>
+<node id="1151" visible="true" version="1"   lat="48.708803148" lon="11.218674953"/>
+<node id="1152" visible="true" version="1"   lat="48.708951747" lon="11.218671560"/>
+<node id="1153" visible="true" version="1"   lat="48.708953822" lon="11.218248255"/>
+<node id="1154" visible="true" version="1"   lat="48.709117142" lon="11.218238987"/>
+<node id="1155" visible="true" version="1"   lat="48.709119277" lon="11.218663211"/>
+<node id="1156" visible="true" version="1"   lat="48.709267876" lon="11.218659819"/>
+<node id="1157" visible="true" version="1"   lat="48.709273444" lon="11.218236514"/>
+<node id="1158" visible="true" version="1"   lat="48.709143249" lon="11.217119511"/>
+<node id="1159" visible="true" version="1"   lat="48.709290359" lon="11.216758572"/>
+<node id="1160" visible="true" version="1"   lat="48.709163339" lon="11.216641650"/>
+<node id="1161" visible="true" version="1"   lat="48.709010030" lon="11.216995602"/>
+<node id="1162" visible="true" version="1"   lat="48.709192816" lon="11.215526382"/>
+<node id="1163" visible="true" version="1"   lat="48.709396448" lon="11.215817500"/>
+<node id="1164" visible="true" version="1"   lat="48.709497624" lon="11.215652533"/>
+<node id="1165" visible="true" version="1"   lat="48.709299758" lon="11.215353622"/>
+<node id="1166" visible="true" version="1"   lat="48.709421854" lon="11.213423882"/>
+<node id="1167" visible="true" version="1"   lat="48.709197149" lon="11.213423882"/>
+<node id="1168" visible="true" version="1"   lat="48.709197149" lon="11.213646191"/>
+<node id="1169" visible="true" version="1"   lat="48.709419526" lon="11.213647956"/>
+<node id="1170" visible="true" version="1"   lat="48.709423169" lon="11.213048411"/>
+<node id="1171" visible="true" version="1"   lat="48.709198463" lon="11.213048411"/>
+<node id="1172" visible="true" version="1"   lat="48.709198463" lon="11.213270721"/>
+<node id="1173" visible="true" version="1"   lat="48.709420840" lon="11.213272485"/>
+<node id="1174" visible="true" version="1"   lat="48.709422511" lon="11.212691864"/>
+<node id="1175" visible="true" version="1"   lat="48.709197806" lon="11.212691864"/>
+<node id="1176" visible="true" version="1"   lat="48.709197806" lon="11.212914173"/>
+<node id="1177" visible="true" version="1"   lat="48.709420183" lon="11.212915937"/>
+<node id="1178" visible="true" version="1"   lat="48.709569491" lon="11.208834115"/>
+<node id="1179" visible="true" version="1"   lat="48.709574140" lon="11.208077945"/>
+<node id="1180" visible="true" version="1"   lat="48.709468764" lon="11.208075597"/>
+<node id="1181" visible="true" version="1"   lat="48.709467593" lon="11.208362116"/>
+<node id="1182" visible="true" version="1"   lat="48.709374307" lon="11.208359761"/>
+<node id="1183" visible="true" version="1"   lat="48.709371731" lon="11.207958055"/>
+<node id="1184" visible="true" version="1"   lat="48.709272609" lon="11.207954896"/>
+<node id="1185" visible="true" version="1"   lat="48.709271173" lon="11.208494015"/>
+<node id="1186" visible="true" version="1"   lat="48.709467036" lon="11.208498319"/>
+<node id="1187" visible="true" version="1"   lat="48.709465664" lon="11.208834115"/>
+<node id="1188" visible="true" version="1"   lat="48.709566392" lon="11.209644297"/>
+<node id="1189" visible="true" version="1"   lat="48.709567942" lon="11.208979713"/>
+<node id="1190" visible="true" version="1"   lat="48.709462565" lon="11.208977365"/>
+<node id="1191" visible="true" version="1"   lat="48.709462565" lon="11.209644297"/>
+<node id="1192" visible="true" version="1"   lat="48.714293819" lon="11.193525212"/>
+<node id="1193" visible="true" version="1"   lat="48.714568144" lon="11.193528338"/>
+<node id="1194" visible="true" version="1"   lat="48.714570206" lon="11.193240752"/>
+<node id="1195" visible="true" version="1"   lat="48.714297944" lon="11.193237626"/>
+<node id="1196" visible="true" version="1"   lat="48.712489501" lon="11.211199587"/>
+<node id="1197" visible="true" version="1"   lat="48.712488406" lon="11.211297535"/>
+<node id="1198" visible="true" version="1"   lat="48.712559609" lon="11.211294215"/>
+<node id="1199" visible="true" version="1"   lat="48.712560705" lon="11.211197927"/>
+<way id="0" visible="true" version="1" >
+<nd ref="956"/>
+<nd ref="957"/>
+<nd ref="958"/>
+<nd ref="959"/>
+<nd ref="956"/>
+<tag k="building" v="yes"/>
+<tag k="building:height" v="5"/>
+<tag k="facade_file_name" v="lib/airport/Common_Elements/Misc_Buildings/Cargo_Terminal.fac"/>
+</way>
+<way id="0" visible="true" version="1" >
+<nd ref="960"/>
+<nd ref="961"/>
+<nd ref="962"/>
+<nd ref="963"/>
+<nd ref="960"/>
+<tag k="building" v="yes"/>
+<tag k="building:height" v="5"/>
+<tag k="facade_file_name" v="lib/airport/Common_Elements/Misc_Buildings/White_Warehouse.fac"/>
+</way>
+<way id="0" visible="true" version="1" >
+<nd ref="964"/>
+<nd ref="965"/>
+<nd ref="966"/>
+<nd ref="967"/>
+<nd ref="964"/>
+<tag k="building" v="yes"/>
+<tag k="building:height" v="5"/>
+<tag k="facade_file_name" v="lib/airport/Common_Elements/Misc_Buildings/White_Office.fac"/>
+</way>
+<way id="0" visible="true" version="1" >
+<nd ref="968"/>
+<nd ref="969"/>
+<nd ref="970"/>
+<nd ref="971"/>
+<nd ref="968"/>
+<tag k="building" v="yes"/>
+<tag k="building:height" v="5"/>
+<tag k="facade_file_name" v="lib/airport/Common_Elements/Misc_Buildings/Cargo_Terminal.fac"/>
+</way>
+<way id="0" visible="true" version="1" >
+<nd ref="972"/>
+<nd ref="973"/>
+<nd ref="974"/>
+<nd ref="975"/>
+<nd ref="972"/>
+<tag k="building" v="yes"/>
+<tag k="building:height" v="15"/>
+<tag k="facade_file_name" v="lib/g10/autogen/urban_high_ireg_40.fac"/>
+</way>
+<way id="0" visible="true" version="1" >
+<nd ref="976"/>
+<nd ref="977"/>
+<nd ref="978"/>
+<nd ref="979"/>
+<nd ref="980"/>
+<nd ref="981"/>
+<nd ref="976"/>
+<tag k="building" v="yes"/>
+<tag k="building:height" v="5"/>
+<tag k="facade_file_name" v="lib/airport/Common_Elements/Misc_Buildings/White_Office.fac"/>
+</way>
+<way id="0" visible="true" version="1" >
+<nd ref="982"/>
+<nd ref="983"/>
+<nd ref="984"/>
+<nd ref="985"/>
+<nd ref="986"/>
+<nd ref="987"/>
+<nd ref="982"/>
+<tag k="building" v="yes"/>
+<tag k="building:height" v="15"/>
+<tag k="facade_file_name" v="lib/g10/autogen/urban_high_ireg_40.fac"/>
+</way>
+<way id="0" visible="true" version="1" >
+<nd ref="988"/>
+<nd ref="989"/>
+<nd ref="990"/>
+<nd ref="991"/>
+<nd ref="988"/>
+<tag k="building" v="yes"/>
+<tag k="building:height" v="5"/>
+<tag k="facade_file_name" v="lib/airport/Common_Elements/Misc_Buildings/White_Office.fac"/>
+</way>
+<way id="0" visible="true" version="1" >
+<nd ref="992"/>
+<nd ref="993"/>
+<nd ref="994"/>
+<nd ref="995"/>
+<nd ref="992"/>
+<tag k="building" v="yes"/>
+<tag k="building:height" v="5"/>
+<tag k="facade_file_name" v="lib/airport/Common_Elements/Hangars/Blue_Hangar.fac"/>
+</way>
+<way id="0" visible="true" version="1" >
+<nd ref="996"/>
+<nd ref="997"/>
+<nd ref="998"/>
+<nd ref="999"/>
+<nd ref="996"/>
+<tag k="building" v="yes"/>
+<tag k="building:height" v="5"/>
+<tag k="facade_file_name" v="lib/airport/Common_Elements/Misc_Buildings/Blue_Warehouse.fac"/>
+</way>
+<way id="0" visible="true" version="1" >
+<nd ref="1000"/>
+<nd ref="1001"/>
+<nd ref="1002"/>
+<nd ref="1003"/>
+<nd ref="1004"/>
+<nd ref="1005"/>
+<nd ref="1006"/>
+<nd ref="1007"/>
+<nd ref="1008"/>
+<nd ref="1009"/>
+<nd ref="1010"/>
+<nd ref="1011"/>
+<nd ref="1000"/>
+<tag k="building" v="yes"/>
+<tag k="building:height" v="5"/>
+<tag k="facade_file_name" v="lib/airport/Common_Elements/Misc_Buildings/White_Office.fac"/>
+</way>
+<way id="0" visible="true" version="1" >
+<nd ref="1012"/>
+<nd ref="1013"/>
+<nd ref="1014"/>
+<nd ref="1015"/>
+<nd ref="1012"/>
+<tag k="building" v="yes"/>
+<tag k="building:height" v="5"/>
+<tag k="facade_file_name" v="lib/airport/Common_Elements/Misc_Buildings/Cargo_Terminal.fac"/>
+</way>
+<way id="0" visible="true" version="1" >
+<nd ref="1016"/>
+<nd ref="1017"/>
+<nd ref="1018"/>
+<nd ref="1019"/>
+<nd ref="1016"/>
+<tag k="building" v="yes"/>
+<tag k="building:height" v="5"/>
+<tag k="facade_file_name" v="lib/airport/Common_Elements/Misc_Buildings/Cargo_Terminal.fac"/>
+</way>
+<way id="0" visible="true" version="1" >
+<nd ref="1020"/>
+<nd ref="1021"/>
+<nd ref="1022"/>
+<nd ref="1023"/>
+<nd ref="1020"/>
+<tag k="building" v="yes"/>
+<tag k="building:height" v="5"/>
+<tag k="facade_file_name" v="lib/airport/Common_Elements/Hangars/Blue_Hangar.fac"/>
+</way>
+<way id="0" visible="true" version="1" >
+<nd ref="1024"/>
+<nd ref="1025"/>
+<nd ref="1026"/>
+<nd ref="1027"/>
+<nd ref="1024"/>
+<tag k="building" v="yes"/>
+<tag k="building:height" v="5"/>
+<tag k="facade_file_name" v="lib/airport/Common_Elements/Hangars/Blue_Hangar.fac"/>
+</way>
+<way id="0" visible="true" version="1" >
+<nd ref="1028"/>
+<nd ref="1029"/>
+<nd ref="1030"/>
+<nd ref="1031"/>
+<nd ref="1032"/>
+<nd ref="1033"/>
+<nd ref="1028"/>
+<tag k="building" v="yes"/>
+<tag k="building:height" v="5"/>
+<tag k="facade_file_name" v="lib/airport/Common_Elements/Misc_Buildings/White_Office.fac"/>
+</way>
+<way id="0" visible="true" version="1" >
+<nd ref="1034"/>
+<nd ref="1035"/>
+<nd ref="1036"/>
+<nd ref="1037"/>
+<nd ref="1038"/>
+<nd ref="1039"/>
+<nd ref="1040"/>
+<nd ref="1041"/>
+<nd ref="1034"/>
+<tag k="building" v="yes"/>
+<tag k="building:height" v="5"/>
+<tag k="facade_file_name" v="lib/airport/Common_Elements/Misc_Buildings/White_Office.fac"/>
+</way>
+<way id="0" visible="true" version="1" >
+<nd ref="1042"/>
+<nd ref="1043"/>
+<nd ref="1044"/>
+<nd ref="1045"/>
+<nd ref="1042"/>
+<tag k="building" v="yes"/>
+<tag k="building:height" v="5"/>
+<tag k="facade_file_name" v="lib/airport/Common_Elements/Misc_Buildings/Cargo_Terminal.fac"/>
+</way>
+<way id="0" visible="true" version="1" >
+<nd ref="1046"/>
+<nd ref="1047"/>
+<nd ref="1048"/>
+<nd ref="1049"/>
+<nd ref="1046"/>
+<tag k="building" v="yes"/>
+<tag k="building:height" v="5"/>
+<tag k="facade_file_name" v="lib/airport/Common_Elements/Misc_Buildings/Cargo_Terminal.fac"/>
+</way>
+<way id="0" visible="true" version="1" >
+<nd ref="1050"/>
+<nd ref="1051"/>
+<nd ref="1052"/>
+<nd ref="1053"/>
+<nd ref="1050"/>
+<tag k="building" v="yes"/>
+<tag k="building:height" v="5"/>
+<tag k="facade_file_name" v="lib/airport/Common_Elements/Misc_Buildings/Cargo_Terminal.fac"/>
+</way>
+<way id="0" visible="true" version="1" >
+<nd ref="1054"/>
+<nd ref="1055"/>
+<nd ref="1056"/>
+<nd ref="1057"/>
+<nd ref="1054"/>
+<tag k="building" v="yes"/>
+<tag k="building:height" v="5"/>
+<tag k="facade_file_name" v="lib/airport/Common_Elements/Misc_Buildings/Cargo_Terminal.fac"/>
+</way>
+<way id="0" visible="true" version="1" >
+<nd ref="1058"/>
+<nd ref="1059"/>
+<nd ref="1060"/>
+<nd ref="1061"/>
+<nd ref="1058"/>
+<tag k="building" v="yes"/>
+<tag k="building:height" v="5"/>
+<tag k="facade_file_name" v="lib/airport/Common_Elements/Misc_Buildings/Cargo_Terminal.fac"/>
+</way>
+<way id="0" visible="true" version="1" >
+<nd ref="1062"/>
+<nd ref="1063"/>
+<nd ref="1064"/>
+<nd ref="1065"/>
+<nd ref="1062"/>
+<tag k="building" v="yes"/>
+<tag k="building:height" v="5"/>
+<tag k="facade_file_name" v="lib/airport/Common_Elements/Misc_Buildings/Cargo_Terminal.fac"/>
+</way>
+<way id="0" visible="true" version="1" >
+<nd ref="1066"/>
+<nd ref="1067"/>
+<nd ref="1068"/>
+<nd ref="1069"/>
+<nd ref="1066"/>
+<tag k="building" v="yes"/>
+<tag k="building:height" v="5"/>
+<tag k="facade_file_name" v="lib/airport/Common_Elements/Misc_Buildings/Cargo_Terminal.fac"/>
+</way>
+<way id="0" visible="true" version="1" >
+<nd ref="1070"/>
+<nd ref="1071"/>
+<nd ref="1072"/>
+<nd ref="1073"/>
+<nd ref="1070"/>
+<tag k="building" v="yes"/>
+<tag k="building:height" v="5"/>
+<tag k="facade_file_name" v="lib/airport/Common_Elements/Misc_Buildings/Cargo_Terminal.fac"/>
+</way>
+<way id="0" visible="true" version="1" >
+<nd ref="1074"/>
+<nd ref="1075"/>
+<nd ref="1076"/>
+<nd ref="1077"/>
+<nd ref="1074"/>
+<tag k="building" v="yes"/>
+<tag k="building:height" v="5"/>
+<tag k="facade_file_name" v="lib/airport/Common_Elements/Misc_Buildings/Cargo_Terminal.fac"/>
+</way>
+<way id="0" visible="true" version="1" >
+<nd ref="1078"/>
+<nd ref="1079"/>
+<nd ref="1080"/>
+<nd ref="1081"/>
+<nd ref="1078"/>
+<tag k="building" v="yes"/>
+<tag k="building:height" v="5"/>
+<tag k="facade_file_name" v="lib/airport/Common_Elements/Misc_Buildings/Cargo_Terminal.fac"/>
+</way>
+<way id="0" visible="true" version="1" >
+<nd ref="1082"/>
+<nd ref="1083"/>
+<nd ref="1084"/>
+<nd ref="1085"/>
+<nd ref="1082"/>
+<tag k="building" v="yes"/>
+<tag k="building:height" v="5"/>
+<tag k="facade_file_name" v="lib/airport/Common_Elements/Misc_Buildings/Cargo_Terminal.fac"/>
+</way>
+<way id="0" visible="true" version="1" >
+<nd ref="1086"/>
+<nd ref="1087"/>
+<nd ref="1088"/>
+<nd ref="1089"/>
+<nd ref="1086"/>
+<tag k="building" v="yes"/>
+<tag k="building:height" v="5"/>
+<tag k="facade_file_name" v="lib/airport/Common_Elements/Misc_Buildings/Cargo_Terminal.fac"/>
+</way>
+<way id="0" visible="true" version="1" >
+<nd ref="1090"/>
+<nd ref="1091"/>
+<nd ref="1092"/>
+<nd ref="1093"/>
+<nd ref="1090"/>
+<tag k="building" v="yes"/>
+<tag k="building:height" v="5"/>
+<tag k="facade_file_name" v="lib/airport/Common_Elements/Misc_Buildings/Cargo_Terminal.fac"/>
+</way>
+<way id="0" visible="true" version="1" >
+<nd ref="1094"/>
+<nd ref="1095"/>
+<nd ref="1096"/>
+<nd ref="1097"/>
+<nd ref="1094"/>
+<tag k="building" v="yes"/>
+<tag k="building:height" v="5"/>
+<tag k="facade_file_name" v="lib/airport/Common_Elements/Misc_Buildings/Cargo_Terminal.fac"/>
+</way>
+<way id="0" visible="true" version="1" >
+<nd ref="1098"/>
+<nd ref="1099"/>
+<nd ref="1100"/>
+<nd ref="1101"/>
+<nd ref="1098"/>
+<tag k="building" v="yes"/>
+<tag k="building:height" v="5"/>
+<tag k="facade_file_name" v="lib/airport/Common_Elements/Misc_Buildings/Cargo_Terminal.fac"/>
+</way>
+<way id="0" visible="true" version="1" >
+<nd ref="1102"/>
+<nd ref="1103"/>
+<nd ref="1104"/>
+<nd ref="1105"/>
+<nd ref="1102"/>
+<tag k="building" v="yes"/>
+<tag k="building:height" v="5"/>
+<tag k="facade_file_name" v="lib/airport/Common_Elements/Misc_Buildings/Cargo_Terminal.fac"/>
+</way>
+<way id="0" visible="true" version="1" >
+<nd ref="1106"/>
+<nd ref="1107"/>
+<nd ref="1108"/>
+<nd ref="1109"/>
+<nd ref="1106"/>
+<tag k="building" v="yes"/>
+<tag k="building:height" v="5"/>
+<tag k="facade_file_name" v="lib/airport/Common_Elements/Misc_Buildings/Cargo_Terminal.fac"/>
+</way>
+<way id="0" visible="true" version="1" >
+<nd ref="1110"/>
+<nd ref="1111"/>
+<nd ref="1112"/>
+<nd ref="1113"/>
+<nd ref="1110"/>
+<tag k="building" v="yes"/>
+<tag k="building:height" v="5"/>
+<tag k="facade_file_name" v="lib/airport/Common_Elements/Misc_Buildings/Cargo_Terminal.fac"/>
+</way>
+<way id="0" visible="true" version="1" >
+<nd ref="1114"/>
+<nd ref="1115"/>
+<nd ref="1116"/>
+<nd ref="1117"/>
+<nd ref="1114"/>
+<tag k="building" v="yes"/>
+<tag k="building:height" v="5"/>
+<tag k="facade_file_name" v="lib/airport/Common_Elements/Misc_Buildings/Cargo_Terminal.fac"/>
+</way>
+<way id="0" visible="true" version="1" >
+<nd ref="1118"/>
+<nd ref="1119"/>
+<nd ref="1120"/>
+<nd ref="1121"/>
+<nd ref="1118"/>
+<tag k="building" v="yes"/>
+<tag k="building:height" v="5"/>
+<tag k="facade_file_name" v="lib/airport/Common_Elements/Misc_Buildings/Cargo_Terminal.fac"/>
+</way>
+<way id="0" visible="true" version="1" >
+<nd ref="1122"/>
+<nd ref="1123"/>
+<nd ref="1124"/>
+<nd ref="1125"/>
+<nd ref="1122"/>
+<tag k="building" v="yes"/>
+<tag k="building:height" v="5"/>
+<tag k="facade_file_name" v="lib/airport/Common_Elements/Misc_Buildings/Cargo_Terminal.fac"/>
+</way>
+<way id="0" visible="true" version="1" >
+<nd ref="1126"/>
+<nd ref="1127"/>
+<nd ref="1128"/>
+<nd ref="1129"/>
+<nd ref="1126"/>
+<tag k="building" v="yes"/>
+<tag k="building:height" v="5"/>
+<tag k="facade_file_name" v="lib/airport/Common_Elements/Misc_Buildings/Cargo_Terminal.fac"/>
+</way>
+<way id="0" visible="true" version="1" >
+<nd ref="1130"/>
+<nd ref="1131"/>
+<nd ref="1132"/>
+<nd ref="1133"/>
+<nd ref="1130"/>
+<tag k="building" v="yes"/>
+<tag k="building:height" v="5"/>
+<tag k="facade_file_name" v="lib/airport/Common_Elements/Misc_Buildings/Cargo_Terminal.fac"/>
+</way>
+<way id="0" visible="true" version="1" >
+<nd ref="1134"/>
+<nd ref="1135"/>
+<nd ref="1136"/>
+<nd ref="1137"/>
+<nd ref="1134"/>
+<tag k="building" v="yes"/>
+<tag k="building:height" v="5"/>
+<tag k="facade_file_name" v="lib/airport/Common_Elements/Misc_Buildings/Cargo_Terminal.fac"/>
+</way>
+<way id="0" visible="true" version="1" >
+<nd ref="1138"/>
+<nd ref="1139"/>
+<nd ref="1140"/>
+<nd ref="1141"/>
+<nd ref="1138"/>
+<tag k="building" v="yes"/>
+<tag k="building:height" v="5"/>
+<tag k="facade_file_name" v="lib/airport/Common_Elements/Misc_Buildings/Cargo_Terminal.fac"/>
+</way>
+<way id="0" visible="true" version="1" >
+<nd ref="1142"/>
+<nd ref="1143"/>
+<nd ref="1144"/>
+<nd ref="1145"/>
+<nd ref="1142"/>
+<tag k="building" v="yes"/>
+<tag k="building:height" v="5"/>
+<tag k="facade_file_name" v="lib/airport/Common_Elements/Misc_Buildings/Cargo_Terminal.fac"/>
+</way>
+<way id="0" visible="true" version="1" >
+<nd ref="1146"/>
+<nd ref="1147"/>
+<nd ref="1148"/>
+<nd ref="1149"/>
+<nd ref="1146"/>
+<tag k="building" v="yes"/>
+<tag k="building:height" v="5"/>
+<tag k="facade_file_name" v="lib/airport/Common_Elements/Misc_Buildings/Cargo_Terminal.fac"/>
+</way>
+<way id="0" visible="true" version="1" >
+<nd ref="1150"/>
+<nd ref="1151"/>
+<nd ref="1152"/>
+<nd ref="1153"/>
+<nd ref="1150"/>
+<tag k="building" v="yes"/>
+<tag k="building:height" v="5"/>
+<tag k="facade_file_name" v="lib/airport/Common_Elements/Misc_Buildings/Cargo_Terminal.fac"/>
+</way>
+<way id="0" visible="true" version="1" >
+<nd ref="1154"/>
+<nd ref="1155"/>
+<nd ref="1156"/>
+<nd ref="1157"/>
+<nd ref="1154"/>
+<tag k="building" v="yes"/>
+<tag k="building:height" v="5"/>
+<tag k="facade_file_name" v="lib/airport/Common_Elements/Misc_Buildings/Cargo_Terminal.fac"/>
+</way>
+<way id="0" visible="true" version="1" >
+<nd ref="1158"/>
+<nd ref="1159"/>
+<nd ref="1160"/>
+<nd ref="1161"/>
+<nd ref="1158"/>
+<tag k="building" v="yes"/>
+<tag k="building:height" v="5"/>
+<tag k="facade_file_name" v="lib/airport/Common_Elements/Misc_Buildings/Cargo_Terminal.fac"/>
+</way>
+<way id="0" visible="true" version="1" >
+<nd ref="1162"/>
+<nd ref="1163"/>
+<nd ref="1164"/>
+<nd ref="1165"/>
+<nd ref="1162"/>
+<tag k="building" v="yes"/>
+<tag k="building:height" v="5"/>
+<tag k="facade_file_name" v="lib/airport/Common_Elements/Misc_Buildings/Cargo_Terminal.fac"/>
+</way>
+<way id="0" visible="true" version="1" >
+<nd ref="1166"/>
+<nd ref="1167"/>
+<nd ref="1168"/>
+<nd ref="1169"/>
+<nd ref="1166"/>
+<tag k="building" v="yes"/>
+<tag k="building:height" v="5"/>
+<tag k="facade_file_name" v="lib/airport/Common_Elements/Misc_Buildings/Cargo_Terminal.fac"/>
+</way>
+<way id="0" visible="true" version="1" >
+<nd ref="1170"/>
+<nd ref="1171"/>
+<nd ref="1172"/>
+<nd ref="1173"/>
+<nd ref="1170"/>
+<tag k="building" v="yes"/>
+<tag k="building:height" v="5"/>
+<tag k="facade_file_name" v="lib/airport/Common_Elements/Misc_Buildings/Cargo_Terminal.fac"/>
+</way>
+<way id="0" visible="true" version="1" >
+<nd ref="1174"/>
+<nd ref="1175"/>
+<nd ref="1176"/>
+<nd ref="1177"/>
+<nd ref="1174"/>
+<tag k="building" v="yes"/>
+<tag k="building:height" v="5"/>
+<tag k="facade_file_name" v="lib/airport/Common_Elements/Misc_Buildings/Cargo_Terminal.fac"/>
+</way>
+<way id="0" visible="true" version="1" >
+<nd ref="1178"/>
+<nd ref="1179"/>
+<nd ref="1180"/>
+<nd ref="1181"/>
+<nd ref="1182"/>
+<nd ref="1183"/>
+<nd ref="1184"/>
+<nd ref="1185"/>
+<nd ref="1186"/>
+<nd ref="1187"/>
+<nd ref="1178"/>
+<tag k="building" v="yes"/>
+<tag k="building:height" v="5"/>
+<tag k="facade_file_name" v="lib/airport/Common_Elements/Misc_Buildings/Cargo_Terminal.fac"/>
+</way>
+<way id="0" visible="true" version="1" >
+<nd ref="1188"/>
+<nd ref="1189"/>
+<nd ref="1190"/>
+<nd ref="1191"/>
+<nd ref="1188"/>
+<tag k="building" v="yes"/>
+<tag k="building:height" v="5"/>
+<tag k="facade_file_name" v="lib/airport/Common_Elements/Misc_Buildings/Cargo_Terminal.fac"/>
+</way>
+<way id="0" visible="true" version="1" >
+<nd ref="1192"/>
+<nd ref="1193"/>
+<nd ref="1194"/>
+<nd ref="1195"/>
+<nd ref="1192"/>
+<tag k="building" v="yes"/>
+<tag k="building:height" v="5"/>
+<tag k="facade_file_name" v="lib/airport/Common_Elements/Misc_Buildings/Blue_Warehouse.fac"/>
+</way>
+<way id="0" visible="true" version="1" >
+<nd ref="1196"/>
+<nd ref="1197"/>
+<nd ref="1198"/>
+<nd ref="1199"/>
+<nd ref="1196"/>
+<tag k="building" v="yes"/>
+<tag k="building:height" v="5"/>
+<tag k="facade_file_name" v="lib/airport/Common_Elements/Misc_Buildings/Cargo_Terminal.fac"/>
+</way>
+</osm>
