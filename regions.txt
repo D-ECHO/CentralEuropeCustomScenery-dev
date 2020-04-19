@@ -221,6 +221,9 @@ Region 24 - Ingolstadt and Neuburg (Donau) --min-lon=11.0 --max-lon=11.75 --min-
 		EDNJ
 		EDPE
 		Flugplatz Burgheim (XEDS7)
+Region 25 - Katowice  --min-lon=19.0 --max-lon=19.25 --min-lat=50.25 --max-lat=50.50
+	Airports
+		EPKT
 		
 		
 		
