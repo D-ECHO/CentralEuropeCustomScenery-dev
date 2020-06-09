@@ -224,6 +224,40 @@ Region 24 - Ingolstadt and Neuburg (Donau) --min-lon=11.0 --max-lon=11.75 --min-
 Region 25 - Katowice  --min-lon=19.0 --max-lon=19.25 --min-lat=50.25 --max-lat=50.50
 	Airports
 		EPKT
+Region 26 - Vienna  --min-lon=16.0 --max-lon=17.0 --min-lat=48.0 --max-lat=48.5
+	Airports
+		LOWW
+Region 27 - Heilbronn, Odenwald  --min-lon=8.8 --max-lon=9.5 --min-lat=49.0 --max-lat=49.8
+	Airports
+		Löchgau				!
+		Völkleshofen - Lichtenberg	!
+		XEDAS (Baumerlenbach)			todo	u
+		XEDCP (Heilbronn - Böckingen)		todo	u
+		UL Stetten			!
+		EDTK (Sinsheim)
+		UL Neuenstadt			!
+		Degmarn				!
+		Möckmühl			!
+		UL Gundelsheim			!
+		XEDFG (Mosbach - Schreckhof)		todo	
+		EDGM (Mosbach - Lohrbach)
+		XEDFB (Rothenberg)
+		Mülben				!
+		EDFU (Mainbullau)
+		EDFO (Michelstadt)
+		Vielbrunn			!
+		EDEW (Walldürn)
+		Schlierstadt			!
+Region 28 - Trier and Saarburg --min-lon=6.5 --max-lon=6.7 --min-lat=49.4 --max-lat=49.8
+	Airports
+		XEDDO	Segelflugplatz Konz		todo
+Region 29 - Berlin --min-lon=13.0 --max-lon=14.0 --min-lat=52 --max-lat=53
+	Airports
+		EDDT
+		EDDB
+		EDDI
+		EDAZ
+		EDAY
 		
 		
 		

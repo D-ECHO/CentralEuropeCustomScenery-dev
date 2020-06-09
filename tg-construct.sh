@@ -73,10 +73,31 @@ then
 elif [ $1 -eq 25 ]
 then
 	geo="--min-lon=19.0 --max-lon=19.25 --min-lat=50.25 --max-lat=50.50"
+elif [ $1 -eq 26 ]
+then
+	geo="--min-lon=16.0 --max-lon=17.0 --min-lat=48.0 --max-lat=48.5"
+elif [ $1 -eq 27 ]
+then
+	geo="--min-lon=8.8 --max-lon=9.5 --min-lat=49.0 --max-lat=49.8"
+elif [ $1 -eq 28 ]
+then
+	geo="--min-lon=6.5 --max-lon=6.7 --min-lat=49.4 --max-lat=49.8"
+elif [ $1 -eq 29 ]
+then
+	geo="--min-lon=13.0 --max-lon=14.0 --min-lat=52 --max-lat=53"
 elif [ $1 -eq 99 ]
 then
-	geo="--min-lon=12.6 --max-lon=12.9 --min-lat=54.3 --max-lat=54.5"
+	geo="--min-lon=9.1 --max-lon=9.2 --min-lat=49.3 --max-lat=49.5" #test, can be replaced
 fi
 echo $1
 echo $geo
-tg-construct --work-dir=./work-final --output-dir=./output/Terrain `echo $geo` --threads AirportArea SRTM-1 AirportObj Default Ocean Hole Freeway Road Road-Motorway Road-Trunk Road-Residential Road-Primary Road-Secondary Road-Tertiary Road-Service Road-Pedestrian Road-Steps Road-Unclassified Airport Pond Lake DryLake Reservoir IntermittentLake IntermittentStream Watercourse Canal Cliffs Glacier PackIce PolarIce Ocean Estuary Urban SubUrban Town Fishing Construction Industrial Port Dump FloodLand Lagoon Bog Marsh SaltMarsh Sand Saline Littoral Dirt Rock Lava OpenMining BuiltUpCover Transport Cemetery DryCrop IrrCrop Rice MixedCrop Vineyard Bamboo Mangrove ComplexCrop NaturalCrop CropGrass CropWood AgroForest Olives GolfCourse Greenspace GrassCover Grassland ScrubCover Scrub ShrubGrassCover SavannaCover Orchard DeciduousForest DeciduousBroadCover EvergreenForest EvergreenBroadCover MixedForest RainForest BarrenCover HerbTundra Sclerophyllous Heath Burnt SnowCover Island Default Void Null Unknown Railroad Asphalt Stream River 
+
+if [ ! -z "$2" ]  && [ $2 = "light" ]
+then
+	echo "Light built: Not building Asphalt, Railroad, Stream, River";
+	arg="";
+else
+	arg="Asphalt Railroad Stream River";
+fi
+
+tg-construct --work-dir=./work-final --output-dir=./output/Terrain `echo $geo` --threads AirportArea SRTM-1 AirportObj Default Ocean Hole Freeway Road Road-Motorway Road-Trunk Road-Residential Road-Primary Road-Secondary Road-Tertiary Road-Service Road-Pedestrian Road-Steps Road-Unclassified Airport Pond Lake DryLake Reservoir IntermittentLake IntermittentStream Watercourse Canal Cliffs Glacier PackIce PolarIce Ocean Estuary Urban SubUrban Town Fishing Construction Industrial Port Dump FloodLand Lagoon Bog Marsh SaltMarsh Sand Saline Littoral Dirt Rock Lava OpenMining BuiltUpCover Transport Cemetery DryCrop IrrCrop Rice MixedCrop Vineyard Bamboo Mangrove ComplexCrop NaturalCrop CropGrass CropWood AgroForest Olives GolfCourse Greenspace GrassCover Grassland ScrubCover Scrub ShrubGrassCover SavannaCover Orchard DeciduousForest DeciduousBroadCover EvergreenForest EvergreenBroadCover MixedForest RainForest BarrenCover HerbTundra Sclerophyllous Heath Burnt SnowCover Island Default Void Null Unknown $arg
