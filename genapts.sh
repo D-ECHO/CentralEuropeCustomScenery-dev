@@ -9,13 +9,16 @@ build_airport() {
 		*)	slope=0.025;
 			perimeter=5.0;;
 	esac
-	genapts850 --threads --input=data/airports/$2/$1.dat --work=./work-final --dem-path=SRTM-1 --max-slope=$slope --perimeter=$perimeter
+	genapts850 --threads --input=data/airports/$2/$1.dat --work=./work-final --dem-path=SRTM-3 --max-slope=$slope --perimeter=$perimeter
 	
 }
 
 if [ $1 = "big" ]
 then
 	for i in data/airports/big_airports/*.dat; do build_airport `echo $i | cut -c 28-31` `echo $i | cut -c 15-26`; done
+elif [ $1 = "all" ]
+then
+	for k in data/airports/*; do for i in $k/*.dat; do build_airport `echo $i | cut -c 24-99 |  cut -d . -f 1` `echo $i | cut -c 15-22`; done; done
 else
 	for i in data/airports/region$1/*.dat; do build_airport `echo $i | cut -c 24-99 |  cut -d . -f 1` `echo $i | cut -c 15-22`; done
 fi
