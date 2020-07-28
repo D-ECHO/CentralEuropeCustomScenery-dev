@@ -4,7 +4,7 @@ build_airport() {
 	echo $1;
 	echo $2;
 	case $1 in
-		XEDFG) 	slope=0.5;
+		XEDFG) 	slope=0.8;
 			perimeter=5.0;;
 		*)	slope=0.025;
 			perimeter=5.0;;
@@ -12,6 +12,12 @@ build_airport() {
 	genapts850 --threads --input=data/airports/$2/$1.dat --work=./work-final --dem-path=SRTM-3 --max-slope=$slope --perimeter=$perimeter
 	
 }
+
+if [ "$2" != "soft" ]
+then
+	echo "Hard rebuilt: Removing old work files";
+	rm -r work/AirportArea work/AirportObj;
+fi
 
 if [ $1 = "big" ]
 then

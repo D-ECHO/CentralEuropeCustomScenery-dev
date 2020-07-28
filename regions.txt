@@ -1,7 +1,23 @@
-Region 01 - Bonn Siegerland (EDGS) --min-lon=7.0 --max-lon=7.3 --min-lat=50.7 --max-lat=50.8 
+Tile Indexing:
+	Longitude:	0.25 deg per tile ( for 22 <= lat < 62 )
+				.0
+				.25
+				.5
+				.75
+	Latitude:	0.125 deg per tile
+				.0
+				.125
+				.25
+				.375
+				.5
+				.625
+				.75
+				.875
+
+Region 01 - Bonn Siegerland (EDGS) --min-lon=7.0 --max-lon=7.25 --min-lat=50.7 --max-lat=50.875
 	Airports:
 		EDGS
-Region 02 - Frankfurt (EDDF) and region --min-lon=7.8 --max-lon=9.0 --min-lat=49.8 --max-lat=50.2 
+Region 02 - Frankfurt (EDDF) and region --min-lon=7.75 --max-lon=9.0 --min-lat=49.75 --max-lat=50.25 
 	Airports
 		EDDF
 		EDFZ
@@ -13,13 +29,13 @@ Region 02 - Frankfurt (EDDF) and region --min-lon=7.8 --max-lon=9.0 --min-lat=49
 		ED1E (BGU Bergen-Enkheim)
 		ED1C (Frankfurt Uniklinik)
 		ED1D (Klinikum Offenbach)
-Region 03 - Rheintal and Schwarzwald (1) - Freiburg --min-lon=7.7 --max-lon=8.4 --min-lat=47.8 --max-lat=48.3
+Region 03 - Rheintal and Schwarzwald (1) - Freiburg --min-lon=7.75 --max-lon=8.5 --min-lat=47.75 --max-lat=48.25
 	Airports
 		EDTF
 		EDSW
 		XEDDH (Kirchzarten)
 		XEDE6 (Reiselfingen)
-Region 04 - Rheintal and Schwarzwald (2) - Karlsruhe and Baden-Baden  --min-lon=8.0 --max-lon=8.8 --min-lat=48.7 --max-lat=49.2
+Region 04 - Rheintal and Schwarzwald (2) - Karlsruhe and Baden-Baden  --min-lon=7.75 --max-lon=8.5 --min-lat=48.25 --max-lat=49.125
 	Airports
 		EDSB
 		XEDRS (Rheinstetten)
@@ -27,7 +43,7 @@ Region 04 - Rheintal and Schwarzwald (2) - Karlsruhe and Baden-Baden  --min-lon=
 		EDRI
 		XEDDR (Landau)
 		EDTB
-Region 05 - Rheintal (3) - Speyer to Bensheim  --min-lon=8.1 --max-lon=8.8 --min-lat=49.2 --max-lat=49.8
+Region 05 - Rheintal (3) - Speyer to Bensheim  --min-lon=8.0 --max-lon=8.75 --min-lat=49.125 --max-lat=49.75
 	Airports
 		EDRY
 		EDFM
@@ -46,7 +62,7 @@ Region 05 - Rheintal (3) - Speyer to Bensheim  --min-lon=8.1 --max-lon=8.8 --min
 		EDIE (ex Heidelberg)
 		XED000A (Heidelberg Uniklinik)
 		XEDD6 (Malsch)
-Region 06 - Hamburg   --min-lon=9.5 --max-lon=10.2 --min-lat=53.4 --max-lat=53.7
+Region 06 - Hamburg and surroundings  --min-lon=9.5 --max-lon=10.25 --min-lat=53.375 --max-lat=53.75
 	Airports
 		EDDH
 		EDHI
@@ -54,14 +70,14 @@ Region 06 - Hamburg   --min-lon=9.5 --max-lon=10.2 --min-lat=53.4 --max-lat=53.7
 		XEDA1 (Boberg)
 		XED00K (Boberg Unfallklinik)
 		XEDB0 (Fischbek)		TODO
-Region 07 - Nürnberg and surroundings --min-lon=10.9 --max-lon=11.2 --min-lat=49.3 --max-lat=49.9
+Region 07 - Nürnberg and surroundings --min-lon=10.75 --max-lon=11.25 --min-lat=49.25 --max-lat=49.875
 	Airports
 		EDDN
 		EDQE
 		XEDB1 (Frieser Warte)
 		UL Frankendorf			TODO
 		XEDBK (Dobenreuth)
-Region 08 - Erfurt and Weimar --min-lon=10.7 --max-lon=11.7 --min-lat=50.7 --max-lat=51.2
+Region 08 - Erfurt and Weimar --min-lon=10.75 --max-lon=11.5 --min-lat=50.75 --max-lat=51.125
 	Airports
 		EDDE
 		EDOU
@@ -69,7 +85,7 @@ Region 08 - Erfurt and Weimar --min-lon=10.7 --max-lon=11.7 --min-lat=50.7 --max
 		EDBA
 		EDEG
 		EDBS
-Region 09 - Stuttgart and surroundings --min-lon=8.8 --max-lon=9.5 --min-lat=48.4 --max-lat=48.9
+Region 09 - Stuttgart and surroundings --min-lon=8.75 --max-lon=9.5 --min-lat=48.375 --max-lat=48.875
 	Airports
 		EDDS
 		EDST
@@ -86,7 +102,7 @@ Region 09 - Stuttgart and surroundings --min-lon=8.8 --max-lon=9.5 --min-lat=48.
 		XEDD5 (Malmsheim)
 		EDTQ
 		XEDBU (Esslingen)		TODO
-Region 10 - Ramstein AB and Kaiserslautern --min-lon=7.2 --max-lon=8.0 --min-lat=49.4 --max-lat=49.8
+Region 10 - Kaiserslautern and Ramstein AB --min-lon=7.5 --max-lon=8.0 --min-lat=49.25 --max-lat=49.625
 	Airports
 		ETAR
 		EDRX
@@ -97,14 +113,13 @@ Region 10 - Ramstein AB and Kaiserslautern --min-lon=7.2 --max-lon=8.0 --min-lat
 		Imsweiler ??
 		Eßweiler ??
 		Becherbach ??
-Region 11 - Spangdahlem AB and Bitburg --min-lon=6.4 --max-lon=6.9 --min-lat=49.8 --max-lat=50.2
+Region 11 - Spangdahlem AB and Bitburg --min-lon=6.25 --max-lon=7 --min-lat=49.875 --max-lat=50.25
 	Airports
 		EDRB
 		ETAD
 		Ernzen ??
-		EDRT
 		XEDBE (Daun)			TODO
-Region 12 - München and surroundings	--min-lon=10.8 --max-lon=12.0 --min-lat=47.6 --max-lat=48.5
+Region 12 - München and surroundings	--min-lon=10.75 --max-lon=12.0 --min-lat=47.875 --max-lat=48.5
 	Airports
 		EDDM
 		EDMO
@@ -127,7 +142,7 @@ Region 12 - München and surroundings	--min-lon=10.8 --max-lon=12.0 --min-lat=47
 		ETSA
 		XEDG7 (Altomünster)
 		XEDAB (Aichach)
-Region 13 - Ulm	--min-lon=9.6 --max-lon=10.3 --min-lat=48.3 --max-lat=48.6
+Region 13 - Ulm	--min-lon=9.5 --max-lon=10.25 --min-lat=48.25 --max-lat=48.625
 	Airports
 		EDNE
 		EDMG
@@ -250,6 +265,7 @@ Region 27 - Heilbronn, Odenwald  --min-lon=8.8 --max-lon=9.5 --min-lat=49.0 --ma
 		Schlierstadt			!
 Region 28 - Trier and Saarburg --min-lon=6.5 --max-lon=6.7 --min-lat=49.4 --max-lat=49.8
 	Airports
+		EDRT ( Trier - Föhren )
 		XEDDO	Segelflugplatz Konz		todo
 Region 29 - Berlin --min-lon=13.0 --max-lon=14.0 --min-lat=52 --max-lat=53
 	Airports
@@ -258,6 +274,22 @@ Region 29 - Berlin --min-lon=13.0 --max-lon=14.0 --min-lat=52 --max-lat=53
 		EDDI
 		EDAZ
 		EDAY
+Region 30 - Saarland --min-lon=6.5 --max-lon=7.5 --min-lat=49.0 --max-lat=49.5
+	Airports
+		EDDR
+		EDRZ
+		EDRP
+		EDRX
+		XEDDQ Segelflugplatz Kusel
+		XEDD8 Segelflugplatz Marpingen
+		XEDBJ Segelflugplatz Dillingen (Diefflen)
+		EDRJ
+Region 31 - Usedom and Szczecin --min-lon=13.75 --max-lon=15.0 --min-lat=53.25 --max-lat=54.375
+	Airports
+		EDCP (Peenemünde)
+		XEDMT (UL Mellenthin)
+		EDAH (Heringsdorf)
+		EPSC (Szczecin)
 		
 		
 		
